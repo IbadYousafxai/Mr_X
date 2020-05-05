@@ -36,7 +36,8 @@ def jalan(z):
 		sys.stdout.flush()
 		time.sleep(00000.1)
 ##### LOGO #####
-logo = """ ██╗██████╗░░█████╗░██████╗░
+logo = """ 
+██╗██████╗░░█████╗░██████╗░
 ██║██╔══██╗██╔══██╗██╔══██╗
 ██║██████╦╝███████║██║░░██║
 ██║██╔══██╗██╔══██║██║░░██║
@@ -65,7 +66,7 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ========================================="
 print  """\033[1;91m=======================================
-\033[1;92mAuthor  \033[1;93m: \033[1;94mIbad Yousafxai
+\033[1;92m\033[1;92m\033[1;92mAuthor  \033[1;93m: \033[1;94mIbad Yousafxai
 \033[1;92mYouTube \033[1;93m: \033[1;94mIbad Tricks Ibad
 \033[1;92mGitHub  \033[1;93m: \033[1;94mhttps://github.com/IbadYousafxai
 \033[1;92mpage \033[1;93m: \033[1;94mhttps://www.facebook.com/ibad.yousafxai143
